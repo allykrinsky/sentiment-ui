@@ -1,2 +1,6 @@
 streamlit
 streamlit-tags
+pandas
+scikit-learn
+transformers
+tensorflow
